@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dushan Kumara</h1>
+<h1 align="center">Hi 👋, I'm Dushan Kumara 😊</h1>
 <h3 align="center">A Student that like to learn and experiment in different languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushan12k&label=Profile%20views&color=0e75b6&style=flat" alt="dushan12k" /> </p>
